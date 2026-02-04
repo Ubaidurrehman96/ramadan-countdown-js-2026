@@ -1,0 +1,36 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.hero{
+    height: 100vh;
+    background-image: url(https://img.pikbest.com/backgrounds/20240911/islamic-luxery-background-ramadan-kareem-and-rabi-ul-awal_10828542.jpg!sw800);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    opacity: 2px;
+    opacity: 0.9;
+}
+h1{
+    font-size: 50px;
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+.timebox{
+    display: flex;
+   gap: 70px;
+}
+.time{
+    text-align: center;
+}
+.time h2{
+    font-size: 4rem;
+    font-weight: 100;
+}
+
