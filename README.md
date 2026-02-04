@@ -1,11 +1,11 @@
-🌙 Ramzan Countdown Timer
+# 🌙 Ramzan Countdown Timer
 
 This project is a simple Ramzan Countdown Timer built using HTML, CSS, and JavaScript.
 It calculates and displays the remaining days, hours, minutes, and seconds until the start of Ramzan.
 
 The countdown updates in real-time and helps users track how much time is left before Ramzan begins.
 
-✨ Features
+# ✨ Features
 
 Displays remaining Days
 
@@ -19,7 +19,7 @@ Real-time countdown using JavaScript
 
 Easy to update Ramzan date when officially confirmed
 
-📅 Important Note
+# 📅 Important Note
 
 The exact date of Ramzan depends on moon sighting and may vary.
 
